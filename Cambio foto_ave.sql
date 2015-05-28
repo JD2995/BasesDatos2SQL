@@ -1,0 +1,1 @@
+ALTER TABLE foto_ave MODIFY foto VARCHAR(100);
