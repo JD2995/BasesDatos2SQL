@@ -1,0 +1,1 @@
+set foreign_key_checks = 1; /*0 = FALSE 1 = TRUE*/
